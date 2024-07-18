@@ -31,7 +31,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Source Code" = "https://github.com/<your github username>/example-package-YOUR-USERNAME-HERE"
+"Source Code" = "https://github.com/hollandjg/example-package-hollandjg"
 
 
 [project.optional-dependencies]
